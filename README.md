@@ -24,7 +24,7 @@ Table of Contents
   * [ads1115_sps_t](#enum-ads1115_sps_t)
   * [ads1115_mode_t](#enum-ads1115_mode_t)
 * [Functions](#functions)
-  * [ads1115_config](#void-ads1115_configi2c_port_t-i2c_portuint8_t-address)
+  * [ads1115_config](#ads1115_t-ads1115_configi2c_port_t-i2c_portuint8_t-address)
   * [ads1115_set_rdy_pin](#void-ads1115_set_rdy_pinads1115_t-adsgpio_num_t-gpio)
   * [ads1115_set_mux](#void-ads1115_set_muxads1115_t-adsads1115_mux_t-mux)
   * [ads1115_set_pga](#void-ads1115_set_pgaads1115_t-adsads1115_fsr_t-fsr)
